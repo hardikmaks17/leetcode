@@ -1,6 +1,6 @@
 /**
  * Problem: 2620. Counter
- * @see {@link https://leetcode.com/problems/counter/description/}
+ * @see {@link https://leetcode.com/problems/counter/?envType=study-plan-v2&envId=30-days-of-javascript}
  */
 
 // Solution
